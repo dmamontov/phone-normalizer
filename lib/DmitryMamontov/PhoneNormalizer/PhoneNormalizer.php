@@ -38,12 +38,12 @@
  * @author    Dmitry Mamontov <d.slonyara@gmail.com>
  * @copyright 2015 Dmitry Mamontov <d.slonyara@gmail.com>
  * @license   http://www.opensource.org/licenses/BSD-3-Clause  The BSD 3-Clause License
- * @since     File available since Release 1.0.0
+ * @since     File available since Release 1.0.1
  */
 
-namespace DmitryMamontov;
+namespace DmitryMamontov\PhoneNormalizer;
 
-use DmitryMamontov\Object\PhoneObject;
+use DmitryMamontov\PhoneNormalizer\Object\PhoneObject;
 
 /**
  * PhoneNormalizer - Normalizer phone numbers.
@@ -51,9 +51,9 @@ use DmitryMamontov\Object\PhoneObject;
  * @author    Dmitry Mamontov <d.slonyara@gmail.com>
  * @copyright 2015 Dmitry Mamontov <d.slonyara@gmail.com>
  * @license   http://www.opensource.org/licenses/BSD-3-Clause  The BSD 3-Clause License
- * @version   Release: 1.0.0
+ * @version   Release: 1.0.1
  * @link      https://github.com/dmamontov/phone-normalizer/
- * @since     Class available since Release 1.0.0
+ * @since     Class available since Release 1.0.1
  */
 class PhoneNormalizer
 {

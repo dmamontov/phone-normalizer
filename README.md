@@ -16,7 +16,7 @@ Pars, normalizes the phone number and results in a specified format.
 
 2) Follow in the project folder:
 ```bash
-composer require dmamontov/phone-normalizer ~1.0.0
+composer require dmamontov/phone-normalizer ~1.0.1
 ```
 
 In config `composer.json` your project will be added to the library `dmamontov/phone-normalizer`, who settled in the folder `vendor/`. In the absence of a config file or folder with vendors they will be created.
