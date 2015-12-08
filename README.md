@@ -1,9 +1,9 @@
-[![Latest Stable Version](https://poser.pugx.org/dmamontov/ms-restapi/v/stable.svg)](https://packagist.org/packages/dmamontov/ms-restapi)
-[![License](https://poser.pugx.org/dmamontov/ms-restapi/license.svg)](https://packagist.org/packages/dmamontov/ms-restapi)
-[![Total Downloads](https://poser.pugx.org/dmamontov/ms-restapi/downloads.svg)](https://packagist.org/packages/dmamontov/ms-restapi)
+[![Latest Stable Version](https://poser.pugx.org/dmamontov/phone-normalizer/v/stable.svg)](https://packagist.org/packages/dmamontov/phone-normalizer)
+[![License](https://poser.pugx.org/dmamontov/phone-normalizer/license.svg)](https://packagist.org/packages/dmamontov/phone-normalizer)
+[![Total Downloads](https://poser.pugx.org/dmamontov/phone-normalizer/downloads.svg)](https://packagist.org/packages/dmamontov/phone-normalizer)
 
-Moy Sklad API Client
-====================
+Phone Normalizer
+================
 
 Pars, normalizes the phone number and results in a specified format.
 
