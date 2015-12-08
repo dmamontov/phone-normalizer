@@ -29,8 +29,11 @@ require 'path/to/vendor/autoload.php';
 ## Examples of use
 
 ``` php
+use DmitryMamontov\PhoneNormalizer\PhoneNormalizer;
+
 $n = new PhoneNormalizer;
-$n->loadCodes('config/codes.json');
+$n->loadCodes('vendor/dmamontov/phone-normalizer/codes/codes.json');
+
 $phone = $n->normalize('XXXXXXXXXXXXXX');
 var_dump($phone->format('+#CC#(#c#)###-##-##'));
 ```
