@@ -41,7 +41,11 @@
  * @since     File available since Release 1.0.1
  */
 
+require 'vendor/autoload.php';
+
+use DmitryMamontov\PhoneNormalizer\PhoneNormalizer;
+
 $n = new PhoneNormalizer;
-$n->loadCodes('config/codes.json');
+$n->loadCodes('vendor/dmamontov/phone-normalizer/codes/codes.json');
 $phone = $n->normalize('XXXXXXXXXXXXXX');
 var_dump($phone->format('+#CC#(#c#)###-##-##'));
