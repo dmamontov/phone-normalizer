@@ -59,7 +59,7 @@ class PhoneNormalizer
 {
     /**
      * The list of possible codes of countries and cities.
-     * 
+     *
      * @var array
      * @access protected
      */
@@ -67,7 +67,7 @@ class PhoneNormalizer
 
     /**
      * Flag converting a literal character to numbers.
-     * 
+     *
      * @var boolean
      * @access protected
      */
@@ -75,7 +75,7 @@ class PhoneNormalizer
 
     /**
      * Sets a flag converting a literal character to numbers.
-     * 
+     *
      * @return PhoneNormalizer
      * @access public
      */
@@ -373,7 +373,7 @@ class PhoneNormalizer
             $phone = substr($phone, $data['code_length'], strlen($phone) - $data['code_length']);
         }
 
-        return new PhoneObject($countryCode, $data['name'], $code, $phone);
+        return new PhoneObject($countryCode, $data['name'], $code, $phone, isset($data['iso']) ? $data['iso'] : null);
     }
 
     /**
@@ -396,7 +396,7 @@ class PhoneNormalizer
             '9' => array('w','x','y','z')
         );
 
-        foreach($replace as $digit => $letters) {
+        foreach ($replace as $digit => $letters) {
             $phone = str_ireplace($letters, $digit, $phone);
         }
 
