@@ -40,7 +40,7 @@
  * @license   http://www.opensource.org/licenses/BSD-3-Clause  The BSD 3-Clause License
  * @since     File available since Release 1.0.1
  */
- 
+
 namespace DmitryMamontov\PhoneNormalizer\Object;
 
 /**
@@ -61,7 +61,7 @@ class PhoneObject
      * @var array
      * @access protected
      */
-    protected $country = array('code' => null, 'name' => null);
+    protected $country = array('code' => null, 'name' => null, 'iso' => null);
 
     /**
      * Region code, city or mobile operator.
@@ -88,7 +88,7 @@ class PhoneObject
      * @param string $number
      * @access public
      */
-    public function __construct($countryCode = null, $countryName = null, $code = null, $number = null)
+    public function __construct($countryCode = null, $countryName = null, $code = null, $number = null, $countryIso = null)
     {
         if (!is_null($countryCode)) {
             $this->setCountryCode($countryCode);
@@ -96,6 +96,10 @@ class PhoneObject
 
         if (!is_null($countryName)) {
             $this->setCountryName($countryName);
+        }
+
+        if (!is_null($countryIso)) {
+            $this->setCountryIso($countryIso);
         }
 
         if (!is_null($code)) {
@@ -153,6 +157,31 @@ class PhoneObject
     public function setCountryName($countryName)
     {
         $this->country['name'] = $countryName;
+
+        return $this;
+    }
+
+    /**
+     * Get the iso code of the country.
+     *
+     * @return string
+     * @access public
+     */
+    public function getCountryIso()
+    {
+        return $this->country['iso'];
+    }
+
+    /**
+     * Set the iso code of the country.
+     *
+     * @param string $countryIso
+     * @return PhoneObject
+     * @access public
+     */
+    public function setCountryIso($countryIso)
+    {
+        $this->country['iso'] = $countryIso;
 
         return $this;
     }

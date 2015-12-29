@@ -1,15 +1,19 @@
 {
     "9162":{
-        "name":"Cocos"
+        "name":"Cocos",
+        "iso": "CC"
     },
     "6723":{
-        "name":"Norfolk"
+        "name":"Norfolk",
+        "iso": "NF"
     },
     "4175":{
-        "name":"Liechtenstein"
+        "name":"Liechtenstein",
+        "iso": "FL"
     },
     "3428":{
-        "name":"Canary"
+        "name":"Canary",
+        "iso": "IC"
     },
     "3395":{
         "name":"Corsica"
@@ -18,299 +22,381 @@
         "name":"Alaska"
     },
     "1876":{
-        "name":"Jamaica"
+        "name":"Jamaica",
+        "iso": "JM"
     },
     "1869":{
-        "name":"St.KittsAndNevis"
+        "name":"St.KittsAndNevis",
+        "iso": "KN"
     },
     "1868":{
-        "name":"TrinidadAndTobago"
+        "name":"TrinidadAndTobago",
+        "iso": "TT"
     },
     "1809":{
-        "name":"Dominican"
+        "name":"Dominican",
+        "iso": "DO"
     },
     "1787":{
-        "name":"PuertoRico"
+        "name":"PuertoRico",
+        "iso": "PR"
     },
     "1784":{
-        "name":"St.VincentAndTheGrenadines"
+        "name":"St.VincentAndTheGrenadines",
+        "iso": "VC"
     },
     "1767":{
-        "name":"Dominica"
+        "name":"Dominica",
+        "iso": "DM"
     },
     "1758":{
-        "name":"St.Lucia"
+        "name":"St.Lucia",
+        "iso": "LC"
     },
     "1671":{
-        "name":"Guam"
+        "name":"Guam",
+        "iso": "GU"
     },
     "1670":{
-        "name":"CommonwealthOfTheNorthernMarianaIslands"
+        "name":"CommonwealthOfTheNorthernMarianaIslands",
+        "iso": "MP"
     },
     "1664":{
-        "name":"Montserrat"
+        "name":"Montserrat",
+        "iso": "MS"
     },
     "1649":{
-        "name":"Turks&Caicos"
+        "name":"Turks&Caicos",
+        "iso": "TC"
     },
     "1473":{
-        "name":"Grenada"
+        "name":"Grenada",
+        "iso": "GD"
     },
     "1441":{
-        "name":"Bermuda"
+        "name":"Bermuda",
+        "iso": "BM"
     },
     "1345":{
-        "name":"CaymanIslands"
+        "name":"CaymanIslands",
+        "iso": "KY"
     },
     "1340":{
-        "name":"USVirginIslands"
+        "name":"USVirginIslands",
+        "iso": "VI"
     },
     "1284":{
-        "name":"Bahamas"
+        "name":"Bahamas",
+        "iso": "BS"
     },
     "1268":{
-        "name":"AntiguaAndBarbuda"
+        "name":"AntiguaAndBarbuda",
+        "iso": "AG"
     },
     "1264":{
-        "name":"Anguilla"
+        "name":"Anguilla",
+        "iso": "AI"
     },
     "1246":{
-        "name":"Barbados"
+        "name":"Barbados",
+        "iso": "BB"
     },
     "998":{
         "name":"Uzbekistan",
+        "iso": "UZ",
         "code_length":4,
         "exceptions":[71,74,65,67,72,75,79,69,61,66,76,62,73,677,673]
     },
     "996":{
         "name":"Kyrgyzstan",
+        "iso": "KG",
         "code_length":4,
         "exceptions":[31,37,313,39,35,32,34]
     },
     "995":{
         "name":"Georgia",
+        "iso": "GE",
         "code_length":3,
         "exceptions":[32,34]
     },
     "994":{
         "name":"Azerbaijan",
+        "iso": "AZ",
         "code_length":3,
         "exceptions":[12,1445,1302]
     },
     "993":{
         "name":"Turkmenistan",
+        "iso": "TM",
         "code_length":1
     },
     "992":{
-        "name":"Tajikistan"
+        "name":"Tajikistan",
+        "iso": "TJ"
     },
     "977":{
         "name":"Nepal",
+        "iso": "NP",
         "code_length":2,
         "exceptions":[1]
     },
     "976":{
         "name":"Mongolia",
+        "iso": "MN",
         "code_length":2,
         "exceptions":[1]
     },
     "975":{
-        "name":"Bhutan"
+        "name":"Bhutan",
+        "iso": "BT"
     },
     "974":{
         "name":"Qatar",
+        "iso": "QA",
         "exceptions":[48,59,550,551,552,553,554,555,556,557,558,559,222,223,224,225,226,227]
     },
     "973":{
-        "name":"Bahrain"
+        "name":"Bahrain",
+        "iso": "BH"
     },
     "972":{
         "name":"Israel",
+        "iso": "IL",
         "code_length":1,
         "exceptions":[50,51,52,53,58]
     },
     "971":{
         "name":"UnitedArabEmirates",
+        "iso": "AE",
         "code_length":1,
         "exceptions":[5079]
     },
     "969":{
         "name":"Yemen,South",
+        "iso": "YD",
         "code_length":2,
         "exceptions":[8]
     },
     "968":{
-        "name":"Oman"
+        "name":"Oman",
+        "iso": "OM"
     },
     "967":{
         "name":"Yemen,North",
+        "iso": "YE",
         "code_length":1
     },
     "966":{
         "name":"SaudiArabia",
+        "iso": "SA",
         "code_length":1
     },
     "965":{
-        "name":"Kuwait"
+        "name":"Kuwait",
+        "iso": "KW"
     },
     "964":{
         "name":"Iraq",
+        "iso": "IQ",
         "code_length":3,
         "exceptions":[1,43,49,25,62,36,32,50,23,60,42,33,24,37,53,21,30,66]
     },
     "963":{
         "name":"Syria",
+        "iso": "SY",
         "code_length":2
     },
     "962":{
         "name":"Jordan",
+        "iso": "JO",
         "code_length":1,
         "exceptions":[59,79,73,74,17]
     },
     "961":{
         "name":"Lebanon",
+        "iso": "LB",
         "code_length":1
     },
     "960":{
-        "name":"Maldives"
+        "name":"Maldives",
+        "iso": "MV"
     },
     "886":{
         "name":"Taiwan",
+        "iso": "TW",
         "code_length":1,
         "exceptions":[89,90,91,92,93,96,60,70,94,95]
     },
     "880":{
         "name":"Bangladesh",
+        "iso": "BD",
         "code_length":3,
         "exceptions":[51,2,41,81,91,31]
     },
     "856":{
         "name":"Laos",
+        "iso": "LA",
         "code_length":2,
         "exceptions":[9]
     },
     "855":{
         "name":"Cambodia",
+        "iso": "KH",
         "code_length":2,
         "exceptions":[1881,1591,1720]
     },
     "853":{
-        "name":"Macau"
+        "name":"Macau",
+        "iso": "MO"
     },
     "852":{
-        "name":"HongKong"
+        "name":"HongKong",
+        "iso": "HK"
     },
     "850":{
         "name":"Korea,Dem.PeoplesRepublic",
+        "iso": "KP",
         "code_length":4
     },
     "692":{
         "name":"MarshallIslands",
+        "iso": "MH",
         "code_length":1,
         "exceptions":[873]
     },
     "691":{
-        "name":"Micronesia"
+        "name":"Micronesia",
+        "iso": "FM"
     },
     "690":{
-        "name":"Tokelau"
+        "name":"Tokelau",
+        "iso": "TK"
     },
     "689":{
-        "name":"FrenchPolynesia"
+        "name":"FrenchPolynesia",
+        "iso": "PF"
     },
     "688":{
-        "name":"Tuvalu"
+        "name":"Tuvalu",
+        "iso": "TV"
     },
     "687":{
-        "name":"NewCaledonia"
+        "name":"NewCaledonia",
+        "iso": "NC"
     },
     "686":{
-        "name":"Kiribati"
+        "name":"Kiribati",
+        "iso": "KI"
     },
     "685":{
-        "name":"WesternSamoa"
+        "name":"WesternSamoa",
+        "iso": "WS"
     },
     "684":{
-        "name":"AmericanSamoa"
+        "name":"AmericanSamoa",
+        "iso": "AS"
     },
     "683":{
-        "name":"NiueIslands"
+        "name":"NiueIslands",
+        "iso": "NU"
     },
     "682":{
-        "name":"CookIslands"
+        "name":"CookIslands",
+        "iso": "CK"
     },
     "681":{
-        "name":"WallisAndFutuna"
+        "name":"WallisAndFutuna",
+        "iso": "WF"
     },
     "680":{
-        "name":"Palau"
+        "name":"Palau",
+        "iso": "PW"
     },
     "679":{
-        "name":"Fiji"
+        "name":"Fiji",
+        "iso": "FJ"
     },
     "678":{
-        "name":"Vanuatu"
+        "name":"Vanuatu",
+        "iso": "VU"
     },
     "677":{
-        "name":"SolomonIslands"
+        "name":"SolomonIslands",
+        "iso": "SB"
     },
     "676":{
-        "name":"Tonga"
+        "name":"Tonga",
+        "iso": "TO"
     },
     "675":{
-        "name":"PapuaNewGuinea"
+        "name":"PapuaNewGuinea",
+        "iso": "PG"
     },
     "674":{
-        "name":"Nauru"
+        "name":"Nauru",
+        "iso": "NR"
     },
     "673":{
         "name":"Brunei",
+        "iso": "BN",
         "code_length":1
     },
     "672":{
-        "name":"ChristmasIsland"
+        "name":"ChristmasIsland",
+        "iso": "CX"
     },
     "671":{
-        "name":"Guam"
+        "name":"Guam",
+        "iso": "GU"
     },
     "670":{
         "name":"NorthernMarianaIslands",
+        "iso": "MP",
         "exceptions":[2348]
     },
     "599":{
         "name":"NetherlandsAntilles",
+        "iso": "AN",
         "code_length":1,
         "exceptions":[46]
     },
     "598":{
         "name":"Uruguay",
+        "iso": "UY",
         "code_length":3,
         "exceptions":[42,2]
     },
     "597":{
-        "name":"Suriname"
+        "name":"Suriname",
+        "iso": "SR"
     },
     "596":{
         "name":"Martinique",
+        "iso": "MQ",
         "exceptions":[20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79]
     },
     "595":{
         "name":"Paraguay",
+        "iso": "PY",
         "code_length":2,
         "exceptions":[541,521]
     },
     "594":{
-        "name":"FrenchGuiana"
+        "name":"FrenchGuiana",
+        "iso": "GF"
     },
     "593":{
         "name":"Ecuador",
+        "iso": "EC",
         "code_length":1
     },
     "592":{
-        "name":"Guyana"
+        "name":"Guyana",
+        "iso": "GY"
     },
     "591":{
         "name":"Bolivia",
+        "iso": "BO",
         "code_length":3,
         "exceptions":[69,4,2,92,52,3,46]
     },
@@ -319,145 +405,178 @@
     },
     "509":{
         "name":"Haiti",
+        "iso": "HT",
         "code_length":1,
         "exceptions":[330,420,510,851]
     },
     "508":{
-        "name":"SaintPierreEtMiquelon"
+        "name":"SaintPierreEtMiquelon",
+        "iso": "PM"
     },
     "507":{
         "name":"Panama",
+        "iso": "PA",
         "code_length":1
     },
     "506":{
-        "name":"Costa"
+        "name":"Costa",
+        "iso": "CR"
     },
     "505":{
         "name":"Nicaragua",
+        "iso": "NI",
         "code_length":3,
         "exceptions":[2]
     },
     "504":{
-        "name":"Honduras"
+        "name":"Honduras",
+        "iso": "HN"
     },
     "503":{
-        "name":"ElSalvador"
+        "name":"ElSalvador",
+        "iso": "SV"
     },
     "502":{
         "name":"Guatemala",
+        "iso": "GT",
         "code_length":1
     },
     "501":{
         "name":"Belize",
+        "iso": "BZ",
         "code_length":1
     },
     "500":{
-        "name":"Falkland"
+        "name":"Falkland",
+        "iso": "FK"
     },
     "421":{
         "name":"SlovakRepublic",
+        "iso": "SK",
         "code_length":3,
         "exceptions":[7,89,95,92,91]
     },
     "420":{
         "name":"CzechRepublic",
+        "iso": "CZ",
         "code_length":3,
         "exceptions":[5,49,67,66,17,48,35,68,69,40,19,2,47,38]
     },
     "389":{
         "name":"Macedonia",
+        "iso": "MK",
         "code_length":2,
         "exceptions":[903,901,902]
     },
     "387":{
         "name":"BosniaAndHerzegovina",
+        "iso": "BA",
         "code_length":2
     },
     "386":{
         "name":"Slovenia",
+        "iso": "SI",
         "code_length":2,
         "exceptions":[608,602,601]
     },
     "385":{
         "name":"Croatia",
+        "iso": "HR",
         "code_length":2,
         "exceptions":[1]
     },
     "381":{
         "name":"Yugoslavia",
+        "iso": "YU",
         "code_length":2,
         "exceptions":[230]
     },
     "380":{
         "name":"Ukraine",
+        "iso": "UA",
         "code_length":4,
         "zero":true,
         "exceptions":[44,432,1762,562,622,412,522,564,53615,642,322,448,629,512,482,532,3355,1821,403,222,1852,356,3371,267,3443,1694,1965,3058,1627,3385,3356,2718,3370,3260,3231,2785,309,2857,2957,2911,294,1705,3,295,3250,3387,2523,3246,2674,1854,3433,1711,251,2958,2477,2984,307,542,352,572,552,382,472,462,654]
     },
     "378":{
-        "name":"RepublicOfSanMarino"
+        "name":"RepublicOfSanMarino",
+        "iso": "SM"
     },
     "377":{
         "name":"Monaco",
+        "iso": "MC",
         "code_length":1
     },
     "376":{
-        "name":"Andorra"
+        "name":"Andorra",
+        "iso": "AD"
     },
     "375":{
         "name":"Belarus",
+        "iso": "BY",
         "code_length":4,
         "exceptions":[17,163,162,232,222]
     },
     "374":{
         "name":"Armenia",
+        "iso": "AM",
         "code_length":2,
         "exceptions":[1,460,520,4300,680,860,830,550,490,570]
     },
     "373":{
         "name":"Moldova",
+        "iso": "MD",
         "code_length":2,
         "exceptions":[2]
     },
     "372":{
         "name":"Estonia",
+        "iso": "EE",
         "code_length":2,
         "exceptions":[2,7]
     },
     "371":{
         "name":"Latvia",
+        "iso": "LV",
         "code_length":2
     },
     "370":{
         "name":"Lithuania",
+        "iso": "LT",
         "code_length":3,
         "exceptions":[5,37,46,45,41]
     },
     "359":{
         "name":"Bulgaria",
+        "iso": "BG",
         "code_length":3,
         "exceptions":[2,56,62,94,92,52,32,76,64,84,82,44,42,38,46,5722,73,66,58,68,34,86,54,6071,7443,5152,7112,7128,9744,9527,5731,8141,3041,6514,6151,3071,9131,7142,3145,8362,3751,6191,9171,2031,7181,6141,7133,5561,3542,3151,3561,7481,3181,5514,3134,6161,4761,5751,3051]
     },
     "358":{
         "name":"Finland",
+        "iso": "FI",
         "code_length":2,
         "exceptions":[6,5,2,8,9,3]
     },
     "357":{
         "name":"Cyprus",
+        "iso": "CY",
         "code_length":2,
         "exceptions":[2,3,91,92,93,94,95,96,98]
     },
     "356":{
-        "name":"Malta"
+        "name":"Malta",
+        "iso": "MT"
     },
     "355":{
         "name":"Albania",
+        "iso": "AL",
         "code_length":3,
         "exceptions":[65,62,52,64,82,7426,42,63]
     },
     "354":{
         "name":"Iceland",
+        "iso": "IS",
         "code_length":3
     },
     "353":{
@@ -467,6 +586,7 @@
     },
     "352":{
         "name":"Luxembourg",
+        "iso": "LU",
         "code_length":2,
         "zero":true
     },
@@ -476,10 +596,12 @@
         "exceptions":[1,2,96,676,765,96765]
     },
     "350":{
-        "name":"Gibraltar"
+        "name":"Gibraltar",
+        "iso": "GI"
     },
     "299":{
-        "name":"Greenland"
+        "name":"Greenland",
+        "iso": "GL"
     },
     "298":{
         "name":"FaeroeIslands",
@@ -487,52 +609,65 @@
     },
     "297":{
         "name":"Aruba",
+        "iso": "AW",
         "code_length":1
     },
     "291":{
         "name":"Eritrea",
+        "iso": "ER",
         "code_length":2,
         "exceptions":[1]
     },
     "290":{
-        "name":"St.Helena"
+        "name":"St.Helena",
+        "iso": "SH"
     },
     "269":{
-        "name":"ComorosAndMayotteIsland"
+        "name":"ComorosAndMayotteIsland",
+        "iso": "KM"
     },
     "268":{
-        "name":"Swaziland"
+        "name":"Swaziland",
+        "iso": "SZ"
     },
     "267":{
         "name":"Botswana",
+        "iso": "BW",
         "code_length":2
     },
     "266":{
-        "name":"Lesotho"
+        "name":"Lesotho",
+        "iso": "LS"
     },
     "265":{
         "name":"Malawi",
+        "iso": "MW",
         "code_length":1
     },
     "264":{
         "name":"Namibia",
+        "iso": "NA",
         "code_length":2,
         "exceptions":[811,812,813]
     },
     "263":{
         "name":"Zimbabwe",
+        "iso": "ZW",
         "code_length":2,
         "exceptions":[9,4,637,718]
     },
     "262":{
-        "name":"ReunionIslands"
+        "name":"ReunionIslands",
+        "iso": "RE"
     },
     "261":{
         "name":"Madagascar",
+        "iso": "MG",
         "code_length":3
     },
     "260":{
         "name":"Zambia",
+        "iso": "ZM",
         "code_length":1,
         "exceptions":[26]
     },
@@ -540,399 +675,489 @@
         "name":"Zanzibar"
     },
     "258":{
-        "name":"Mozambique"
+        "name":"Mozambique",
+        "iso": "MZ"
     },
     "257":{
         "name":"Burundi",
+        "iso": "BI",
         "code_length":2,
         "exceptions":[2]
     },
     "256":{
         "name":"Uganda",
+        "iso": "UG",
         "code_length":2,
         "exceptions":[481,485,493]
     },
     "255":{
         "name":"Tanzania",
+        "iso": "TZ",
         "code_length":2
     },
     "254":{
         "name":"Kenya",
+        "iso": "KE",
         "code_length":3,
         "exceptions":[11,2,37]
     },
     "253":{
-        "name":"Djibouti"
+        "name":"Djibouti",
+        "iso": "DJ"
     },
     "252":{
         "name":"Somalia",
+        "iso": "SO",
         "code_length":1
     },
     "251":{
         "name":"Ethiopia",
+        "iso": "ET",
         "code_length":1
     },
     "250":{
-        "name":"RwandeseRepublic"
+        "name":"RwandeseRepublic",
+        "iso": "RW"
     },
     "249":{
         "name":"Sudan",
+        "iso": "SD",
         "code_length":3,
         "exceptions":[21,51,41,31,61,11]
     },
     "248":{
-        "name":"Seychelles"
+        "name":"Seychelles",
+        "iso": "SC"
     },
     "247":{
-        "name":"Ascension"
+        "name":"Ascension",
+        "iso": "AC"
     },
     "246":{
-        "name":"DiegoGarcia"
+        "name":"DiegoGarcia",
+        "iso": "DG"
     },
     "245":{
-        "name":"Guinea-Bissau"
+        "name":"Guinea-Bissau",
+        "iso": "GW"
     },
     "244":{
         "name":"Angola",
+        "iso": "AO",
         "code_length":2,
         "exceptions":[9]
     },
     "243":{
         "name":"DemocraticRepublic(ex.Zaire)",
+        "iso": "CD",
         "code_length":2,
         "exceptions":[2]
     },
     "242":{
         "name":"Congo",
+        "iso": "CG",
         "code_length":2,
         "exceptions":[1]
     },
     "241":{
         "name":"GaboneseRepublic",
+        "iso": "GA",
         "code_length":2
     },
     "240":{
         "name":"EquatorialGuinea",
+        "iso": "GQ",
         "code_length":1
     },
     "239":{
-        "name":"SaoTome-e-Principe"
+        "name":"SaoTome-e-Principe",
+        "iso": "ST"
     },
     "238":{
-        "name":"CapeVerde"
+        "name":"CapeVerde",
+        "iso": "CV"
     },
     "237":{
-        "name":"Cameroon"
+        "name":"Cameroon",
+        "iso": "CM"
     },
     "236":{
-        "name":"CentralAfricanRepublic"
+        "name":"CentralAfricanRepublic",
+        "iso": "CF"
     },
     "235":{
         "name":"Chad",
+        "iso": "TD",
         "code_length":2
     },
     "234":{
         "name":"Nigeria",
+        "iso": "NG",
         "code_length":2,
         "exceptions":[1,2]
     },
     "233":{
         "name":"Ghana",
+        "iso": "GH",
         "code_length":2
     },
     "232":{
         "name":"SierraLeone",
+        "iso": "SL",
         "code_length":1
     },
     "231":{
-        "name":"Liberia"
+        "name":"Liberia",
+        "iso": "LR"
     },
     "230":{
         "name":"Mauritius",
+        "iso": "MU",
         "code_length":3
     },
     "229":{
-        "name":"Benin"
+        "name":"Benin",
+        "iso": "BJ"
     },
     "228":{
-        "name":"Togolese"
+        "name":"Togolese",
+        "iso": "TG"
     },
     "227":{
-        "name":"Niger"
+        "name":"Niger",
+        "iso": "NE"
     },
     "226":{
         "name":"BurkinaFaso",
+        "iso": "BF",
         "code_length":2
     },
     "225":{
-        "name":"Ivory"
+        "name":"Ivory",
+        "iso": "CI"
     },
     "224":{
         "name":"Guinea",
+        "iso": "GN",
         "code_length":2,
         "exceptions":[4]
     },
     "223":{
         "name":"Mali",
+        "iso": "ML",
         "code_length":2
     },
     "222":{
         "name":"Mauritania",
+        "iso": "MR",
         "code_length":1
     },
     "221":{
         "name":"Senegal",
+        "iso": "SN",
         "code_length":3,
         "exceptions":[63,64,67,68,82,83,84,85,86,87,90,93,94,95,96,97,98,99]
     },
     "220":{
-        "name":"Gambia"
+        "name":"Gambia",
+        "iso": "GM"
     },
     "218":{
         "name":"Libya",
+        "iso": "LY",
         "code_length":2
     },
     "216":{
         "name":"Tunisia",
+        "iso": "TN",
         "code_length":1
     },
     "212":{
         "name":"Morocco",
+        "iso": "MA",
         "code_length":1
     },
     "98":{
         "name":"Iran",
+        "iso": "IR",
         "code_length":3,
         "exceptions":[61,11,31,51,41,21,81,71]
     },
     "95":{
         "name":"Myanmar",
+        "iso": "MM",
         "code_length":2,
         "exceptions":[1,2]
     },
     "94":{
         "name":"SriLanka",
+        "iso": "LK",
         "code_length":2,
         "exceptions":[1,9,8]
     },
     "93":{
         "name":"Afganistan",
+        "iso": "AF",
         "code_length":1
     },
     "92":{
         "name":"Pakistan",
+        "iso": "PK",
         "code_length":3,
         "exceptions":[8288,4521,4331,51,21,42,61,91,71]
     },
     "91":{
         "name":"India",
+        "iso": "IN",
         "code_length":3,
         "exceptions":[11,22,33,44,40]
     },
     "90":{
         "name":"Turkey",
+        "iso": "TR",
         "code_length":3
     },
     "86":{
         "name":"China",
+        "iso": "CN",
         "code_length":3,
         "exceptions":[20,29,10,22,27,28,21,24,1350,1351,1352,1353,1354,1355,1356,1357,1358,1359,1360,1361,1362,1363,1364,1365,1366,1367,1368,1369,1370,1371,1372,1373,1374,1375,1376,1377,1378,1379,1380,1381,1382,1383,1384,1385,1386,1387,1388,1389,1390]
     },
     "84":{
         "name":"Vietnam",
+        "iso": "VN",
         "code_length":2,
         "exceptions":[511,350,4,8]
     },
     "82":{
         "name":"Korea,Republic",
+        "iso": "KR",
         "code_length":3,
         "exceptions":[32,62,51,2,53,42,64,16,17,18,19]
     },
     "81":{
         "name":"Japan",
+        "iso": "JP",
         "code_length":3,
         "exceptions":[78,45,44,75,93,52,25,6,11,22,54,3,48,92,53,82,1070,3070,4070]
     },
     "66":{
         "name":"Thailand",
+        "iso": "TH",
         "code_length":2,
         "exceptions":[2]
     },
     "65":{
-        "name":"Singapore"
+        "name":"Singapore",
+        "iso": "SG"
     },
     "64":{
         "name":"NewZealand",
+        "iso": "NZ",
         "code_length":1,
         "exceptions":[20,21,25,26,29]
     },
     "63":{
         "name":"Philippines",
+        "iso": "PH",
         "code_length":2,
         "exceptions":[455,4661,2150,2155,452,2]
     },
     "62":{
         "name":"Indonesia",
+        "iso": "ID",
         "code_length":3,
         "exceptions":[22,61,21,33,36,39,35,34,24,31,81,82]
     },
     "61":{
         "name":"Australia",
+        "iso": "AU",
         "code_length":1,
         "exceptions":[14,15,16,17,18,19,41]
     },
     "60":{
         "name":"Malaysia",
+        "iso": "MY",
         "code_length":1,
         "exceptions":[86,88,82,85,10,18]
     },
     "58":{
         "name":"Venezuela",
+        "iso": "VE",
         "code_length":2,
         "exceptions":[2]
     },
     "57":{
         "name":"Colombia",
+        "iso": "CO",
         "code_length":2,
         "exceptions":[1,5,7,2,4,816]
     },
     "56":{
         "name":"Chile",
+        "iso": "CL",
         "code_length":2,
         "exceptions":[2]
     },
     "55":{
         "name":"Brazil",
+        "iso": "BR",
         "code_length":2,
         "exceptions":[243,187,485,186,246,533,173,142,473,125,495,138,482,424,192,247,484,144,442,532,242,245,194,182,123,474,486]
     },
     "54":{
         "name":"Argentina",
+        "iso": "AR",
         "code_length":4,
         "exceptions":[291,11,297,223,261,299,358,341,387,381,342]
     },
     "53":{
         "name":"Cuba",
+        "iso": "CU",
         "code_length":2,
         "exceptions":[680,5,8,7,686,322,419,433,335,422,692,516,226]
     },
     "52":{
         "name":"Mexico",
+        "iso": "MX",
         "code_length":2,
         "exceptions":[473,181,981,112,331,5,8,951,771,492,131,246,961,459,747]
     },
     "51":{
         "name":"Peru",
+        "iso": "PE",
         "code_length":2,
         "exceptions":[1,194,198,193,190,1877,1878,1879]
     },
     "49":{
         "name":"Germany",
+        "iso": "DE",
         "code_length":4,
         "exceptions":[651,241,711,981,821,30,971,671,921,951,521,228,234,531,421,471,961,281,611,365,40,511,209,551,641,34202,340,351,991,771,906,231,203,211,271,911,212,841,631,721,561,221,831,261,341,871,491,591,451,621,391,291,89,395,5021,571,441,781,208,541,69,331,851,34901,381,33638,751,681,861,581,731,335,741,461,761,661,345,481,34203,375,385,34204,361,201,33608,161,171,172,173,177,178,179]
     },
     "48":{
         "name":"Poland",
+        "iso": "PL",
         "code_length":2,
         "exceptions":[192,795,862,131,135,836,115,604,641,417,601,602,603,605,606,501,885]
     },
     "47":{
         "name":"Norway",
+        "iso": "NO",
         "code_length":1,
         "exceptions":[43,83,62]
     },
     "46":{
         "name":"Sweden",
+        "iso": "SE",
         "code_length":3,
         "exceptions":[33,21,31,54,44,13,46,40,19,63,8,60,90,18,42]
     },
     "45":{
         "name":"Denmark",
+        "iso": "DK",
         "code_length":2,
         "exceptions":[9,6,7,8,1,5,3,4,251,243,249,276,70777,80827,90107,90207,90417,90517]
     },
     "44":{
         "name":"UnitedKingdom",
+        "iso": "GB",
         "code_length":4,
         "exceptions":[21,91,44,41,51,61,31,121,117,141,185674,18383,15932,116,151,113,171,181,161,207,208,158681,115,191,177681,114,131,18645]
     },
     "43":{
         "name":"Austria",
+        "iso": "AT",
         "code_length":4,
         "exceptions":[1,662,732,316,512,463]
     },
     "41":{
         "name":"Switzerland",
+        "iso": "CH",
         "code_length":2,
         "exceptions":[1]
     },
     "40":{
         "name":"Romania",
+        "iso": "RO",
         "code_length":2,
         "exceptions":[1,941,916,981]
     },
     "39":{
         "name":"Italy",
+        "iso": "IT",
         "code_length":3,
         "zero":true,
         "exceptions":[71,80,35,51,30,15,41,45,33,70,74,95,31,90,2,59,39,81,49,75,85,50,6,19,79,55,330,333,335,339,360,347,348,349]
     },
     "36":{
         "name":"Hungary",
+        "iso": "HU",
         "code_length":2,
         "exceptions":[1]
     },
     "34":{
         "name":"Spain",
+        "iso": "ES",
         "code_length":3,
         "exceptions":[4,6,3,5,96,93,94,91,95,98]
     },
     "33":{
         "name":"France",
+        "iso": "FR",
         "code_length":3,
         "exceptions":[32,14,38,59,55,88,96,28,97,42,61]
     },
     "32":{
         "name":"Belgium",
+        "iso": "BE",
         "code_length":2,
         "exceptions":[2,9,7,3,476,477,478,495,496]
     },
     "31":{
         "name":"Netherlands",
+        "iso": "NL",
         "code_length":3,
         "exceptions":[4160,2268,2208,5253,78,72,33,20,55,26,35,74,76,40,77,10,70,75,73,38,50,15,30,58,43,24,46,13,23,45,53,61,62,65]
     },
     "30":{
         "name":"Greece",
+        "iso": "GR",
         "code_length":3,
         "exceptions":[1,41,81,51,61,31,71,93,94,95,97556,97557]
     },
     "27":{
         "name":"SouthAfrica",
+        "iso": "ZA",
         "code_length":2,
         "exceptions":[149,1782,1773,444]
     },
     "21":{
         "name":"Algeria",
+        "iso": "DZ",
         "code_length":1
     },
     "20":{
         "name":"Egypt",
+        "iso": "EG",
         "code_length":2,
         "exceptions":[2,3,1221]
     },
     "8":{
         "name":"Russia",
+        "iso": "RU",
         "code_length":5,
         "exceptions":[4162,416332,8512,851111,4722,4725,391379,8442,4732,4152,4154451,4154459,4154455,41544513,8142,8332,8612,8622,3525,812,8342,8152,3812,4862,3422,342633,8112,9142,8452,3432,3434,3435,4812,3919,8432,8439,3822,4872,3412,3511,3512,3022,4112,4852,4855,3852,3854,8182,818,90,3472,4741,4764,4832,4922,8172,8202,8722,4932,493,3952,3951,3953,411533,4842,3842,3843,8212,4942,3912,4712,4742,8362,495,499,4966,4964,4967,498,8312,8313,3832,383612,3532,8412,4232,423370,423630,8632,8642,8482,4242,8672,8652,4752,4822,482502,4826300,3452,8422,4212,3466,3462,8712,8352,997,901,902,903,904,905,906,908,909,910,911,912,913,914,915,916,917,918,919,920,921,922,923,924,925,926,927,928,929,930,931,932,933,934,936,937,938,950,951,952,953,960,961,962,963,964,965,967,968,980,981,982,983,984,985,987,988,989]
     },
     "7":{
         "name":"Russia",
+        "iso": "RU",
         "code_length":5,
         "exceptions":[4162,416332,8512,851111,4722,4725,391379,8442,4732,4152,4154451,4154459,4154455,41544513,8142,8332,8612,8622,3525,812,8342,8152,3812,4862,3422,342633,8112,9142,8452,3432,3434,3435,4812,3919,8432,8439,3822,4872,3412,3511,3512,3022,4112,4852,4855,3852,3854,8182,818,90,3472,4741,4764,4832,4922,8172,8202,8722,4932,493,3952,3951,3953,411533,4842,3842,3843,8212,4942,3912,4712,4742,8362,495,499,4966,4964,4967,498,8312,8313,3832,383612,3532,8412,4232,423370,423630,8632,8642,8482,4242,8672,8652,4752,4822,482502,4826300,3452,8422,4212,3466,3462,8712,8352,997,901,902,903,904,905,906,908,909,910,911,912,913,914,915,916,917,918,919,920,921,922,923,924,925,926,927,928,929,930,931,932,933,934,936,937,938,950,951,952,953,960,961,962,963,964,965,967,968,980,981,982,983,984,985,987,988,989]
     },
     "1":{
         "name":"USA",
+        "iso": "US",
         "code_length":3
     }
 }
